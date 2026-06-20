@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+backend/generated_media/*
+!backend/generated_media/.gitkeep
+.env
